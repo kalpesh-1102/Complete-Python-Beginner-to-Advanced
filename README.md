@@ -42,6 +42,4 @@ This repository is made for **you**. It’s beginner-friendly, logically organiz
 
 ---
 
-## 📂 Repository Structure
-
 
